@@ -25,6 +25,10 @@ you should create "monotonic_align" folder again
 then do python setup.py build_ext --inplace
 
 
+5. if you want to run train_ms.py
+this is for multiple person, and your config should set n_speakers > 1
+but you don't need provide multiple person in your training.txt.
+
 
 
 
