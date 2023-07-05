@@ -2,16 +2,16 @@
 Defines the set of symbols used in text input to the model.
 '''
 
+'''
 _pad        = '_'
 _punctuation = ',.!?-'
 _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧ↓↑ '
-
 '''
+
 # japanese_cleaners2
 _pad        = '_'
 _punctuation = ',.!?-~…'
 _letters = 'AEINOQUabdefghijkmnoprstuvwyzʃʧʦ↓↑ '
-'''
 
 '''# korean_cleaners
 _pad        = '_'
